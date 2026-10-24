@@ -23,7 +23,7 @@ Web 3.0 has great potential to enhance user privacy, data control, and digital i
 Opening browser Developer Tools (F12) and monitoring the Network tab while loading a web page captures real HTTP request/response cycles. Here are three recorded requests:
 
 1. Main HTML Document Request:
-   - URL: https://example.com/
+   - URL: https://solafahmed1234-lang.github.io/web-programming/
    - Method: GET
    - Status Code: 200 OK (Successful request and response)
    - Content-Type: text/html; charset=UTF-8
